@@ -24,7 +24,7 @@ def power(x,y):
 
 print("select operation.")
 print("1.Add")
-print("2.Sustract")
+print("2.Substract")
 print("3.Multiply")
 print("4.divide")
 print("5.power")
