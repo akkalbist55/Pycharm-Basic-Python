@@ -37,7 +37,7 @@ class coinflipsimulator(QWidget):
         self.setGeometry(1427, 30, 162, 201)
         #Locks the size of the window and make it impossible for the user to change it
         self.setFixedSize(self.size())
-        self.setWindowTitle('Coin Flip Simulator')
+        self.setWindowTitle('Coin Flip Simulator!')
         #Sets the window icon to the image file 'icon.png' located in the same folder as the source file
         self.setWindowIcon(QIcon('icon.png'))      
         self.show()
